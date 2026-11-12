@@ -1,6 +1,6 @@
 cask "mesa-app" do
-  version "2.6"
-  sha256 "db04d43599ba5380aaf32883c75609b79c746de3953a36f0bf533a5b2b8d88c1"
+  version "2.7"
+  sha256 "d08ab1736eed337b58d47befe7ec7c2921d45c65bc9cfc30c338780a341a2788"
 
   url "https://github.com/mpbrewing/homebrew-tools/releases/download/v#{version}/Mesa-#{version}.dmg"
   name "Mesa"
